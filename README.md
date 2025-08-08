@@ -18,3 +18,8 @@ Joaquín Puente 22296
 ```
 https://uvggt-my.sharepoint.com/:w:/g/personal/gar22434_uvg_edu_gt/EYzyrDu1D6BJqGUxocIMKwwBlu3fWYqqvcYuJP3hhX7tUg?e=CvgQfU
 ```
+
+## Información Adicional
+
+- Algunos outputs son bastante largos, al abrirlo el VSCode se truncan. Sugiero clonar el repo o bajar el .ipynb y abrirlo ahí.
+- Decidimos tener un output usando encoding para las variables categóricas y otro sin el encoding, ya que estos se usan normalmente para aplicar algoritmos de ML. Quisimos tener una versión "legible" y otra versión "ML-Ready"
