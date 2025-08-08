@@ -1,5 +1,9 @@
 # Proyecto 1. Obtención y Limpieza de los datos
 
+## Nota
+
+- Dentro de las instrucciones decía que no tomaramos decisiones sobre la eliminación de filas, pero asumimos que esto solo se refería por ejemplo a eliminar valores faltantes. Luego de realizar operaciones de limpieza, encontramos algunas entradas duplicadas que si removimos. Consideramos que este tipo de operaciones ya realizadas al final valen la pena y eran esperadas en el proyecto :)
+
 ## Autores
 
 Nelson Eduardo García Bravatti 22434 
